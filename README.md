@@ -1,4 +1,4 @@
-# 👋 Hey, I'm hokumcangus!
+#  🤙 Aloha! 🌺 I'm Hoku, E Komo Mai/Welcome! 🤙
 
 **Full-Stack Developer** | Building modern web applications with React, Node.js, and PostgreSQL
 
